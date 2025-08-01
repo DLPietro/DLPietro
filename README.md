@@ -32,4 +32,4 @@ Used R to conduct a 10-year empirical analysis (2013–2023) comparing passive v
 👉 Full code, analysis, and results available in my [thesis repository](https://github.com/DLPietro/thesis-backtesting-etf-spx)
 
 
-###Let’s connect!
+# Let's connect!! 🌍
