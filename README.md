@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Pietro Di Leo
 
-**Quantitative Finance Graduate** | MSc in *Finance and Quantitative Methods for Economics* (LM-16)  
-Currently working as an **Operations Officer** in Malta, while actively building expertise in **financial data analysis, backtesting, and portfolio optimization** using R, SQL and Python.
+**Operations Officer** | **Quantitative Finance Graduate** | MSc in *Finance and Quantitative Methods for Economics* (LM-16)  
+Currently working in a **Custody Company** in Malta, while actively building expertise in **financial data analysis, backtesting, and portfolio optimization** using R, SQL and Python.
 
-📍 Malta | 🌍 Open to remote roles & freelance opportunities in data analysis, quantitative research, and asset management  
+📍 Malta | 🌍 Working on data analysis, quantitative research, and asset management  
 📧 dileopie@gmail.com | 🔗 [LinkedIn Profile](https://linkedin.com/in/pietrodileo)
 
 ### I work with:
