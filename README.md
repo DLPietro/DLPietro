@@ -29,7 +29,7 @@ Used R to conduct a 10-year empirical analysis (2013–2023) comparing passive v
 - Backtesting of three portfolio strategies (Equally Weighted, Mean-Variance, Mean-CVaR)
 - Performance metrics: Sharpe Ratio, Maximum Drawdown, Tracking Error
 
-👉 Full code, analysis, and results available in my [thesis repository](https://github.com/DLPietro/thesis-backtesting-etf-spx)
+👉 Full code, analysis, and results available [here](https://github.com/DLPietro/thesis-backtesting-etf-spx)
 
 
 # Let's connect!! 🌍
