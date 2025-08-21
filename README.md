@@ -21,7 +21,16 @@ Currently working in a **Custody Company** in Malta, while actively building exp
 - 💼 Transitioning from operations to data-driven finance roles — with a focus on **freelance, remote, and research-oriented positions**
 - 🧪 Maintaining a disciplined approach to learning: structured, project-based, and results-focused
 
-### My Master’s Thesis:
+### 🌱 **Learning Journey**
+
+I believe in **structured, intentional growth**. To stay on track, I maintain a public **[Learning Roadmap](https://github.com/DLPietro/learning-roadmap)** that outlines my goals, milestones, and resources across data science, engineering, and analysis best practices.
+
+📘 **Explore my roadmap**:  
+👉 [github.com/DLPietro/learning-roadmap](https://github.com/DLPietro/learning-roadmap)
+
+This repository reflects my commitment to transparency, consistency, and continuous improvement.
+
+### Quant Analysis:
 🎓 ["Empirical Comparison: S&P 500, iShares Core S&P 500 ETF (IVV), and Fidelity Contrafund (FCNTX)"](https://github.com/DLPietro/thesis-backtesting-etf-spx)  
 Used R to conduct a 10-year empirical analysis (2013–2023) comparing passive vs. active fund performance, including:
 - Linear regression on log-returns
@@ -30,6 +39,15 @@ Used R to conduct a 10-year empirical analysis (2013–2023) comparing passive v
 - Performance metrics: Sharpe Ratio, Maximum Drawdown, Tracking Error
 
 👉 Full code, analysis, and results available [here](https://github.com/DLPietro/thesis-backtesting-etf-spx)
+
+### 📊 **GitHub Stats** (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DLPietro&show_icons=true&theme=radical&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical" width="48%"/>
+</p>
+
+> *Stats update automatically. Hover to see details!*
 
 
 # Let's connect!! 🌍
