@@ -44,7 +44,7 @@ Used R to conduct a 10-year empirical analysis (2013–2023) comparing passive v
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DLPietro&show_icons=true&theme=radical&layout=compact" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical" width="43%"/>
 </p>
 
 > *Stats update automatically. Hover to see details!*
