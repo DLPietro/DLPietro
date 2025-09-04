@@ -21,6 +21,14 @@ Currently working in a **Custody Company** in Malta, while actively building exp
 - 💼 Transitioning from operations to data-driven finance roles — with a focus on **freelance, remote, and research-oriented positions**
 - 🧪 Maintaining a disciplined approach to learning: structured, project-based, and results-focused
 
+## 📊 Data Journey
+
+📝 [You'll find my Blog here: →](https://dlpietro.github.io)
+
+<a href="https://dlpietro.github.io">
+  <img src="https://img.shields.io/badge/Blog-My_Data_Journey-2176C7?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog"/>
+</a>
+
 ### 🌱 **Learning Journey**
 
 I believe in **structured, intentional growth**. To stay on track, I maintain a public **[Learning Roadmap](https://github.com/DLPietro/learning-roadmap)** that outlines my goals, milestones, and resources across data science, engineering, and analysis best practices.
