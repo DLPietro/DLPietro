@@ -23,8 +23,6 @@ Currently working in a **Custody Company** in Malta, while actively building exp
 
 ## 📊 Data Journey
 
-📝 [You'll find my Blog here: →](https://dlpietro.github.io)
-
 <a href="https://dlpietro.github.io">
   <img src="https://img.shields.io/badge/Blog-My_Data_Journey-2176C7?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog"/>
 </a>
