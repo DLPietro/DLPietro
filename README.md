@@ -1,12 +1,16 @@
 # Hi there 👋 I'm Pietro Di Leo
 
-**Operations Officer** | **Quantitative Finance Graduate** | MSc in *Finance and Quantitative Methods for Economics* (LM-16)  
-Currently working in a **Custody Company** in Malta, while actively building expertise in **financial data analysis, backtesting, and portfolio optimization** using R and Python.
+**Operations Officer** | **Quant Finance Graduate** | MSc in *Finance and Quantitative Methods for Economics* (LM-16)  
+I've been spending 3 years in a **Custody Company** in Malta - moving data, writing reports, and using repetitive procedures.
 
-📍 Malta | 🌍 Working on Data Analysis, Quantitative Research, and Asset Management  
-📧 dileopie@gmail.com | 🔗 [LinkedIn Profile](https://linkedin.com/in/pietrodileo)
+Now, I'm building my own way with **Python, R, and real-world data projects**.
 
-### I work with:
+📍 Malta | 🌍 Working on **Data Analysis, Programming and Statistical Research**  
+📧 [Mail](dileopie@gmail.com) | 🔗 [LinkedIn Profile](https://linkedin.com/in/pietrodileo)
+
+---
+
+### 🔧 I've been working with:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -15,45 +19,67 @@ Currently working in a **Custody Company** in Malta, while actively building exp
 ![ggplot2](https://img.shields.io/badge/ggplot2-64C7CF?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Currently:
-- 🔢 Enhancing my skills in Python for financial data analysis and automation
-- 📈 Building a public portfolio of empirical finance projects (backtesting, ETF analysis, portfolio optimization)
-- 💼 Transitioning from operations to data-driven finance roles — with a focus on **freelance, remote, and research-oriented positions**
-- 🧪 Maintaining a disciplined approach to learning: structured, project-based, and results-focused
+### 💥 Why I'm doing this:
+
+Let’s be honest:  
+- I'm paid to do **manual work** in a **data-rich industry**
+- The tools? Excel without macros, PDF reports, copy-paste
+- The growth and the impact? Minimal
+
+I stopped waiting and I started building then!!
+
+---
+
+### 🛠 What I Build
+
+I don’t follow tutorials. I solve problems.
+
+#### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund](https://github.com/DLPietro/thesis-backtesting-etf-spx)
+- 10-year analysis in R: GARCH, backtesting, Sharpe, CVaR
+- Proved that active management often doesn’t beat the market
+- Full code, results, and storytelling on GitHub
+
+#### 🧮 [Portfolio Risk Calculator (Python)](https://github.com/DLPietro/portfolio-risk-analysis)
+- Pulls live market data
+- Computes Sharpe Ratio, CVaR, Max Drawdown
+- Turns portfolio analysis from hours to seconds
+
+#### 🎮 [Player Behavior Analysis (iGaming)](https://github.com/DLPietro/casino-analytics-dashboard)
+- Simulated casino session data
+- SQL for cohort analysis, Python for trends, Tableau for dashboards
+- Built to break into data roles in high-growth industries
+
+👉 All projects are on my GitHub — no fluff, just code and results.
+
+---
 
 ## 📊 Data Journey
+
+I've been writing about what I am doing: more pragmatism, fewer technicalities
 
 <a href="https://dlpietro.github.io">
   <img src="https://img.shields.io/badge/Blog-My_Data_Journey-2176C7?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog"/>
 </a>
 
-### 🌱 **Learning Journey**
 
-I believe in **structured, intentional growth**. To stay on track, I maintain a public **[Learning Roadmap](https://github.com/DLPietro/learning-roadmap)** that outlines my goals, milestones, and resources across data science, engineering, and analysis best practices.
+## 🌱 Learning Roadmap
 
-📘 **Explore my roadmap**:  
-👉 [github.com/DLPietro/learning-roadmap](https://github.com/DLPietro/learning-roadmap)
+No random courses. No fake certificates.  
+Just a **structured, public plan** to get where I want.
 
-This repository reflects my commitment to transparency, consistency, and continuous improvement.
+🚀 **[Explore my roadmap](https://github.com/DLPietro/learning-roadmap)**
 
-### Quant Analysis:
-🎓 ["Empirical Comparison: S&P 500, iShares Core S&P 500 ETF (IVV), and Fidelity Contrafund (FCNTX)"](https://github.com/DLPietro/thesis-backtesting-etf-spx)  
-Used R to conduct a 10-year empirical analysis (2013–2023) comparing passive vs. active fund performance, including:
-- Linear regression on log-returns
-- GARCH modeling for volatility
-- Backtesting of three portfolio strategies (Equally Weighted, Mean-Variance, Mean-CVaR)
-- Performance metrics: Sharpe Ratio, Maximum Drawdown, Tracking Error
+---
 
-👉 Full code, analysis, and results available [here](https://github.com/DLPietro/thesis-backtesting-etf-spx)
 
 ### 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DLPietro&show_icons=true&theme=radical&layout=compact" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical" width="43%"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DLPietro&theme=radical&hide_border=true&hide_total_contributions=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DLPietro&show_icons=true&theme=radical&layout=compact&from=2025-07-31" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical" width="43%" />
+</div>
 
-> *Stats update automatically. Hover to see details!*
+# Let's connect!! 🌍🌟
 
-
-# Let's connect!! 🌍
+---
