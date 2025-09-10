@@ -44,10 +44,10 @@ I don’t follow tutorials. I solve problems.
 - Computes Sharpe Ratio, CVaR, Max Drawdown
 - Turns portfolio analysis from hours to seconds
 
-#### 🎮 [Player Behavior Analysis (iGaming)](https://github.com/DLPietro/casino-analytics-dashboard)
-- Simulated casino session data
-- SQL for cohort analysis, Python for trends, Tableau for dashboards
-- Built to break into data roles in high-growth industries
+#### 🧮 [Custody NAV Calculator](https://github.com/DLPietro/custody-nav-calculator)
+- Automates daily NAV reporting
+- Uses Python + live market data
+- Reduces manual work and errors
 
 👉 All projects are on my GitHub — no fluff, just code and results.
 
