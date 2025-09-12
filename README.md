@@ -5,10 +5,11 @@ I've been spending 3 years in a **Custody Company** in Malta - moving data, writ
 
 Now, I'm building my own way with **Python, R, and real-world data projects**.
 
-📍 Malta | 🌍 Working on **Data Analysis, Programming and Statistical Research**  
-📧 [Mail](dileopie@gmail.com) | 🔗 [LinkedIn Profile](https://linkedin.com/in/pietrodileo)
+📍 Malta | 🌍 Working on **Data Analysis, Programming and Statistical Research**
+
 
 ---
+
 
 ### 🔧 I've been working with:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -82,4 +83,7 @@ Just a **structured, public plan** to get where I want.
 
 # Let's connect!! 🌍🌟
 
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileopie@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrodileo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DLPietro)
 ---
