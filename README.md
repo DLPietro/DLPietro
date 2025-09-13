@@ -52,6 +52,8 @@ I don’t follow tutorials. I solve problems.
 
 👉 All projects are on my GitHub — no fluff, just code and results.
 
+[![Commit Style](https://img.shields.io/badge/Commit_Style-DLPietro-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DLPietro/learning-roadmap/blob/main/CONTRIBUTING.md)
+
 ---
 
 ## 📊 Data Journey
