@@ -12,13 +12,21 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
 
 ### 🔧 I've been working with:
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-64C7CF?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-6AA84F?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Tableau-FFD966?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ### 💥 Why I'm doing this:
 
@@ -40,6 +48,7 @@ I don’t follow tutorials. I solve problems.
 - Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
 - Identifying key insights: players using WELCOME100 promo had 2.3x higher LTV; churn spiked after Day 7 without deposit
 - Project publicly documented with full code, queries, and dashboard
+
 
 #### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund (R)](https://github.com/DLPietro/thesis-backtesting-etf-spx)
 - 10-year analysis in R: GARCH, backtesting, Sharpe, CVaR
