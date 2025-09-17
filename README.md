@@ -3,7 +3,7 @@
 **Operations Officer** | **Quant Finance Graduate** | MSc in *Finance and Quantitative Methods for Economics* (LM-16)  
 I've been spending 3 years in a **Custody Company** in Malta - moving data, writing reports, and using repetitive procedures.
 
-Now, I'm building my own way with **Python, R, and real-world data projects**.
+Now, I'm building my own way with **Python, R, and SQL in real-world data projects**.
 
 📍 Malta | 🌍 Working on **Data Analysis, Programming and Statistical Research**
 
@@ -35,17 +35,23 @@ I stopped waiting and I started building then!!
 
 I don’t follow tutorials. I solve problems.
 
-#### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund](https://github.com/DLPietro/thesis-backtesting-etf-spx)
+#### 🎰 [iGaming Analytics Dashboard ⚠️⚠️⚠️(🔨 WORK IN PROGRESS)](https://github.com/DLPietro/igaming-analytics-case-study)
+- Building a simulated iGaming analytics system from scratch: analyzed player session patterns, cohort retention, and campaign ROI using synthetic data
+- Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
+- Identifying key insights: players using WELCOME100 promo had 2.3x higher LTV; churn spiked after Day 7 without deposit
+- Project publicly documented with full code, queries, and dashboard
+
+#### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund (R)](https://github.com/DLPietro/thesis-backtesting-etf-spx)
 - 10-year analysis in R: GARCH, backtesting, Sharpe, CVaR
 - Proved that active management often doesn’t beat the market
 - Full code, results, and storytelling on GitHub
 
-#### 🧮 [Portfolio Risk Calculator (Python)](https://github.com/DLPietro/portfolio-risk-analysis)
+#### 📊 [Portfolio Risk Calculator (Python)](https://github.com/DLPietro/portfolio-risk-calculator)
 - Pulls live market data
 - Computes Sharpe Ratio, CVaR, Max Drawdown
 - Turns portfolio analysis from hours to seconds
 
-#### 🧮 [Custody NAV Calculator](https://github.com/DLPietro/custody-nav-calculator)
+#### 🧮 [Custody NAV Calculator (Python)](https://github.com/DLPietro/custody-nav-calculator)
 - Automates daily NAV reporting
 - Uses Python + live market data
 - Reduces manual work and errors
