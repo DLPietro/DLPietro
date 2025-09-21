@@ -43,11 +43,13 @@ I stopped waiting and I started building then!!
 
 I don’t follow tutorials. I solve problems.
 
-#### 🎰 [iGaming Analytics Dashboard ⚠️⚠️⚠️(🔨 WORK IN PROGRESS)](https://github.com/DLPietro/igaming-analytics-case-study)
+#### 🎰 [iGaming Analytics Dashboard](https://github.com/DLPietro/igaming-analytics-case-study)
 - Building a simulated iGaming analytics system from scratch: analyzed player session patterns, cohort retention, and campaign ROI using synthetic data
 - Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
-- Identifying key insights: players using WELCOME100 promo had 2.3x higher LTV; churn spiked after Day 7 without deposit
+- Identifying key insights: players using NEWUSER10 or CASINO20 promo have more probability for retention (Cohort analysis);
 - Project publicly documented with full code, queries, and dashboard
+
+[![One Week. 10,000 Sessions. 1,200 Players.](https://img.shields.io/badge/One_Week-10K_Sessions-28A745?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DLPietro/igaming-analytics-case-study/blob/main/reports/daily_kpi_report.csv)
 
 
 #### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund (R)](https://github.com/DLPietro/thesis-backtesting-etf-spx)
