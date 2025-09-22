@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Pietro Di Leo
 
 **Operations Officer** | **Quant Finance Graduate** | MSc in *Finance and Quantitative Methods for Economics* (LM-16)  
-I've been spending 3 years in a **Custody Company** in Malta - moving data, writing reports, and using repetitive procedures.
 
+I've been spending 3 years in a **Custody Company** in Malta - moving data, writing reports, and using repetitive procedures.
 Now, I'm building my own way with **Python, R, and SQL in real-world data projects**.
 
 📍 Malta | 🌍 Working on **Data Analysis, Programming and Statistical Research**
