@@ -78,7 +78,7 @@ I don’t follow tutorials. I solve problems.
 I've been writing about what I am doing: more pragmatism, fewer technicalities
 
 <a href="https://dlpietro.github.io">
-  <img src="https://img.shields.io/badge/Blog-My_Data_Journey-2176C7?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog"/>
+  <img src="https://img.shields.io/badge/Blog-My_Data_Journey-28A745?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog"/>
 </a>
 
 
