@@ -96,7 +96,7 @@ Just a **structured, public plan** to get where I want.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DLPietro&theme=radical&hide_border=true&hide_total_contributions=true" width="60%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=DLPietro&show_icons=true&theme=radical&layout=compact&from=2025-07-31" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=compact&theme=radical&hide=Jupyter%20Notebook" width="43%" />
 </div>
 
 # Let's connect!! 🌍🌟
