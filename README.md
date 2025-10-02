@@ -49,7 +49,7 @@ I don’t follow tutorials. I solve problems.
 - Identifying key insights: players using NEWUSER10 or CASINO20 promo have more probability for retention (Cohort analysis);
 - Project publicly documented with full code, queries, and dashboard
 
-[![4 Weeks. 40K Sessions. 1200 Players.](https://img.shields.io/badge/4_Weeks-40K_Sessions-28A745?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DLPietro/igaming-analytics-case-study/tree/main/docs)
+[![4 Weeks. 40K Sessions. 1200 Players.](https://img.shields.io/badge/4_Weeks-40K_Sessions-F1C232?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DLPietro/igaming-analytics-case-study/tree/main/docs)
 
 #### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund (R)](https://github.com/DLPietro/thesis-backtesting-etf-spx)
 - 10-year analysis in R: GARCH, backtesting, Sharpe, CVaR
