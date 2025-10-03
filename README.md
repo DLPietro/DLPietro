@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pietro Di Leo
+# Hi there 🌟 I'm Pietro Di Leo
 
 **Operations Officer** | **Quant Finance Graduate** | MSc in *Finance and Quantitative Methods for Economics* (LM-16)  
 
