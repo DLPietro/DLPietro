@@ -43,6 +43,13 @@ I stopped waiting and I started building then!!
 
 I don’t follow tutorials. I solve problems.
 
+<div align="center">
+  <a href="https://github.com/DLPietro/igaming-analytics-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=igaming-analytics-case-study&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/thesis-backtesting-etf-spx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=thesis-backtesting-etf-spx&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/custody-nav-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=custody-nav-calculator&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/portfolio-risk-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=portfolio-risk-calculator&theme=radical"/>
+</div>
+
 #### 🎰 [iGaming Analytics Dashboard (Python, SQL & Tableau)](https://github.com/DLPietro/igaming-analytics-case-study)
 - Building a simulated iGaming analytics system from scratch: analyzed player session patterns, cohort retention, and campaign ROI using synthetic data
 - Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
