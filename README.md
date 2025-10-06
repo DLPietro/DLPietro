@@ -43,13 +43,6 @@ I stopped waiting and I started building then!!
 
 I don’t follow tutorials. I solve problems.
 
-#### 🎰 [iGaming Analytics Dashboard (Python, SQL & Tableau)](https://github.com/DLPietro/igaming-analytics-case-study)
-- Building a simulated iGaming analytics system from scratch: analyzed player session patterns, cohort retention, and campaign ROI using synthetic data
-- Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
-- Identifying key insights: players using NEWUSER10 or CASINO20 promo have more probability for retention (Cohort analysis);
-- Project publicly documented with full code, queries, and dashboard
-
-[![4 Weeks. 40K Sessions. 1200 Players.](https://img.shields.io/badge/4_Weeks-40K_Sessions-F1C232?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DLPietro/igaming-analytics-case-study/tree/main/docs)
 
 #### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund (R)](https://github.com/DLPietro/thesis-backtesting-etf-spx)
 - 10-year analysis in R: GARCH, backtesting, Sharpe, CVaR
@@ -66,9 +59,19 @@ I don’t follow tutorials. I solve problems.
 - Uses Python + live market data
 - Reduces manual work and errors
 
-👉 All projects are on my GitHub — no fluff, just code and results.
+#### 🎰 [iGaming Analytics Dashboard (Python, SQL & Tableau)](https://github.com/DLPietro/igaming-analytics-case-study)
+- Building a simulated iGaming analytics system from scratch: analyzed player session patterns, cohort retention, and campaign ROI using synthetic data
+- Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
+- Identifying key insights: players using NEWUSER10 or CASINO20 promo have more probability for retention (Cohort analysis);
+- Project publicly documented with full code, queries, and dashboard
 
-[![Commit Style](https://img.shields.io/badge/Commit_Style-DLPietro-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DLPietro/learning-roadmap/blob/main/CONTRIBUTING.md)
+[![4 Weeks. 40K Sessions. 1200 Players.](https://img.shields.io/badge/4_Weeks-40K_Sessions-F1C232?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DLPietro/igaming-analytics-case-study/tree/main/docs)
+
+---
+
+>👉 All projects are on my GitHub — no fluff, just code and results.
+>
+>[![Commit Style](https://img.shields.io/badge/Commit_Style-DLPietro-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DLPietro/learning-roadmap/blob/main/CONTRIBUTING.md)
 
 ---
 
@@ -96,9 +99,10 @@ Just a **structured, public plan** to get where I want.
 ### 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DLPietro&theme=radical&hide_border=true&hide_total_contributions=true" width="60%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DLPietro&show_icons=true&theme=radical&layout=compact&from=2025-07-31" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=donut&theme=radical&hide=Jupyter%20Notebook" width="32.6%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DLPIetro&theme=2077&layout=compact&from=2025-07-31" alt="General stats badge"/>
+  <img src="https://streak-stats.demolab.com?user=DLPietro&theme=radical&hide_border=true&hide_total_contributions=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLPietro&layout=donut&theme=radical&hide_border=true&hide=Jupyter%20Notebook"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DLPIetro&theme=2077&utcOffset=8" alt="Commits per day badge"/>
 </div>
 
 
