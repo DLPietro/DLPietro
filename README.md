@@ -31,9 +31,9 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 ### 💥 Why I'm doing this:
 
 Let’s be honest:  
-- I'm paid to do **manual work** in a **data-rich industry**
-- The tools? Excel without macros, PDF reports, copy-paste
-- The growth and the impact? Minimal
+>I'm paid to do **manual work** in a **data-rich industry**
+>The tools? Excel without macros, PDF reports, copy-paste
+>The growth and the impact? Minimal
 
 I stopped waiting and I started building then!!
 
