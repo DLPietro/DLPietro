@@ -51,7 +51,7 @@ I don’t follow tutorials. I solve problems.
 - Proved that active management often doesn’t beat the market
 - Full code, results, and storytelling on GitHub
 
-#### 📊 [Portfolio Risk Calculator (Python)](https://github.com/DLPietro/portfolio-risk-calculator)
+#### 📊 [Portfolio Risk Report (Python)](https://github.com/DLPietro/portfolio-risk-report)
 - Pulls live market data
 - Computes Sharpe Ratio, CVaR, Max Drawdown
 - Turns portfolio analysis from hours to seconds
@@ -61,7 +61,7 @@ I don’t follow tutorials. I solve problems.
 - Uses Python + live market data
 - Reduces manual work and errors
 
-#### 🎰 [iGaming Analytics Dashboard (Python, SQL & Tableau)](https://github.com/DLPietro/igaming-analytics-case-study)
+#### 🎲 [iGaming Analytics Dashboard (Python, SQL & Tableau)](https://github.com/DLPietro/igaming-analytics-case-study)
 - Building a simulated iGaming analytics system from scratch: analyzed player session patterns, cohort retention, and campaign ROI using synthetic data
 - Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
 - Identifying key insights: players using NEWUSER10 or CASINO20 promo have more probability for retention (Cohort analysis);
