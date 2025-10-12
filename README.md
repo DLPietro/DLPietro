@@ -98,7 +98,6 @@ Just a **structured, public plan** to get where I want.
 
 ---
 
-LinkedIn%20Learning-0A66C2
 ### 📊 **GitHub Stats**
 
 <div align="center">
