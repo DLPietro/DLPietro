@@ -5,7 +5,7 @@
 I've been spending 3 years in a **Custody Company** in Malta - moving data, writing reports, and using repetitive procedures.
 Now, I'm building my own way with **Python, R, and SQL in real-world data projects**.
 
-📍 Malta | 🌍 Working on **Data Analysis, Programming and Statistical Research**
+📍 Malta | 💻 Working on **Data Analysis, Programming and Statistical Research**
 
 
 ---
@@ -52,12 +52,12 @@ I don’t follow tutorials. I solve problems.
 - Proved that active management often doesn’t beat the market
 - Full code, results, and storytelling on GitHub
 
-#### 📊 [Portfolio Risk Report (Python)](https://github.com/DLPietro/portfolio-risk-report)
+#### 📃 [Portfolio Risk Report (Python)](https://github.com/DLPietro/portfolio-risk-report)
 - Pulls live market data
 - Computes Sharpe Ratio, CVaR, Max Drawdown
 - Turns portfolio analysis from hours to seconds
 
-#### 🧮 [Custody NAV Calculator (Python)](https://github.com/DLPietro/custody-nav-calculator)
+#### 📊 [Custody NAV Calculator (Python)](https://github.com/DLPietro/custody-nav-calculator)
 - Automates daily NAV reporting
 - Uses Python + live market data
 - Reduces manual work and errors
@@ -108,7 +108,7 @@ Just a **structured, public plan** to get where I want.
 </div>
 
 
-# Let's connect!! 🌍🌟
+# Let's connect!! 🌍
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-DLPietro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DLPietro)
 [![Email](https://img.shields.io/badge/Email-dileopie-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileopie@gmail.com)
