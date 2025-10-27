@@ -12,6 +12,7 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
 
 ### 🔧 I've been working with:
+
 <div align="left">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,12 +22,14 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-6AA84F?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FFD966?style=for-the-badge&logo=matplotlib&logoColor=white" />
+ 
+  <img src="https://img.shields.io/badge/Matplotlib-F2C811?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-660000?style=for-the-badge&logo=plotly&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Tableau-660000?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+
 </div>
 
 ### 💥 Why I'm doing this:
@@ -46,10 +49,10 @@ I stopped waiting and I started building then!!
 
 I don’t follow tutorials. I solve problems.
 
-#### 🎰 [iGaming Retention Test (Python, SQL, Statsmodels) ⚠️⚠️ IN PROGRESS ⚠️⚠️](https://github.com/DLPietro/ig-retention-test)
-- Testing player retention through A/B testing and survival analysis
+#### 🎰 [iGaming Retention Test (Python, SQL, Statsmodels) ⚠️⚠️ IN PROGRESS ⚠️⚠️](https://github.com/DLPietro/retention-test)
+- Testing player retention through _A/B testing_ and survival analysis
 - Simulates promotional impact on returning players
-- Uses Python (Pandas, Lifelines) for cohort lifetime modeling and SQL for data aggregation
+- Uses Python (_Pandas_, _sklearn_ and _Pyplot_) for cohort lifetime modeling and SQL for data aggregation
 - Goal: detect statistically significant retention uplift after promo exposure
 
 #### 🎲 [iGaming Analytics Dashboard (Python, SQL & Tableau)](https://github.com/DLPietro/igaming-analytics-case-study)
