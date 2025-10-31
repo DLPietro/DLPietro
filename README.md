@@ -49,7 +49,7 @@ I stopped waiting and I started building then!!
 
 I don’t follow tutorials. I solve problems.
 
-#### 🎰 [iGaming Retention Test (Python, SQL, Statsmodels) ⚠️⚠️ IN PROGRESS ⚠️⚠️](https://github.com/DLPietro/retention-test)
+#### 🎰 [iGaming Retention Test (Python, SQL, Statsmodels, Pyplot)](https://github.com/DLPietro/retention-test)
 - Testing player retention through _A/B testing_ and survival analysis
 - Simulates promotional impact on returning players
 - Uses Python (_Pandas_, _sklearn_ and _Pyplot_) for cohort lifetime modeling and SQL for data aggregation
