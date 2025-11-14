@@ -9,7 +9,7 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
 ---
 
-### 🔧 I've been working with:
+# 🔧 I've been working with:
 
 <div align="left">
 
@@ -30,7 +30,9 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
 </div>
 
-### 💥 Why I'm doing this:
+---
+
+# 💥 Why I'm doing this:
 
 Let’s be honest:  
 >I'm paid to do **manual work** in a **data-rich industry**
@@ -43,7 +45,7 @@ I stopped waiting and I started building then!!
 
 ---
 
-### 🛠 What I Built
+# 🛠 What I Built
 
 I don’t follow tutorials: I solve problems.
 
@@ -56,9 +58,9 @@ I don’t follow tutorials: I solve problems.
   <a href="https://github.com/DLPietro/thesis-backtesting-etf-spx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=thesis-backtesting-etf-spx&theme=radical&hide=Jupyter%20Notebook"/>
  </div>
 
-# ⚠️⚠️⚠️ Work in Progress ⚠️⚠️⚠️
+### ⚠️⚠️⚠️ Work in Progress ⚠️⚠️⚠️
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/DLPietro/payroll-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=payroll-database&theme=radical&hide=Jupyter%20Notebook"/>
 </div>
 
@@ -68,7 +70,7 @@ I don’t follow tutorials: I solve problems.
 
 ---
 
-## 🌱 Data Journey & Learning Roadmap
+# 🌱 Data Journey & Learning Roadmap
 
 No random courses, no fake certificates, but a **structured, public plan** to get where I want. And I've been writing about what I am doing.
 
@@ -83,7 +85,7 @@ No random courses, no fake certificates, but a **structured, public plan** to ge
 
 ---
 
-### 📊 **GitHub Stats**
+# 📊 **GitHub Stats**
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DLPIetro&theme=2077&layout=compact&from=2025-07-31" alt="General stats badge"/>
