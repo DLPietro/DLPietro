@@ -11,7 +11,7 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
 # 🔧 I've been working with:
 
-<div align="left">
+<div align="center">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -60,7 +60,7 @@ I don’t follow tutorials: I solve problems.
 
 ### ⚠️⚠️⚠️ Work in Progress ⚠️⚠️⚠️
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/DLPietro/payroll-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=payroll-database&theme=radical&hide=Jupyter%20Notebook"/>
 </div>
 
@@ -74,7 +74,7 @@ I don’t follow tutorials: I solve problems.
 
 No random courses, no fake certificates, but a **structured, public plan** to get where I want. And I've been writing about what I am doing.
 
-<div align="left">
+<div align="center">
   <a href="https://dlpietro.github.io">
   <img src="https://img.shields.io/badge/Blog-My_Data_Journey-BCBCBC?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog"/>
   </a>
