@@ -22,7 +22,7 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-6AA84F?style=for-the-badge&logo=postgresql&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/DBeaver-FF5E00?style=for-the-badge&logo=dbeaver&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-F2C811?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-660000?style=for-the-badge&logo=plotly&logoColor=white" />
   
@@ -45,42 +45,31 @@ I stopped waiting and I started building then!!
 
 ---
 
-### 🛠 What I Build
+### 🛠 What I Built
 
-I don’t follow tutorials. I solve problems.
+I don’t follow tutorials: I solve problems.
 
-#### 🎰 [iGaming Retention Test (Python, SQL, Statsmodels, Pyplot) 🌟NEW!!!🌟](https://github.com/DLPietro/retention-test)
-- Testing player retention through _A/B testing_ and survival analysis
-- Simulates promotional impact on returning players
-- Uses Python (_Pandas_, _sklearn_ and _Pyplot_) for cohort lifetime modeling and SQL for data aggregation
-- Goal: detect statistically significant retention uplift after promo exposure
-
-#### 🎲 [iGaming Analytics Dashboard (Python, SQL & Tableau)](https://github.com/DLPietro/igaming-analytics-case-study)
-- Building a simulated iGaming analytics system from scratch: analyzed player session patterns, cohort retention, and campaign ROI using synthetic data
-- Using SQL for cohort analysis, Python for trend detection, and Tableau for interactive dashboards
-- Identifying key insights: players using NEWUSER10 or CASINO20 promo have more probability for retention (Cohort analysis);
-- Project publicly documented with full code, queries, and dashboard
-
-[![4 Weeks. 40K Sessions. 1200 Players.](https://img.shields.io/badge/4_Weeks-40K_Sessions-F1C232?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DLPietro/igaming-analytics-case-study/tree/main/docs)
-
-#### 📉 [Empirical Comparison: S&P 500 vs. IVV vs. Fidelity Contrafund (R)](https://github.com/DLPietro/thesis-backtesting-etf-spx)
-- 10-year analysis in R: GARCH, backtesting, Sharpe, CVaR
-- Proved that active management often doesn’t beat the market
-- Full code, results, and storytelling on GitHub
-
-#### 📃 [Portfolio Risk Report (Python)](https://github.com/DLPietro/portfolio-risk-report)
-- Pulls live market data
-- Computes Sharpe Ratio, CVaR, Max Drawdown
-- Turns portfolio analysis from hours to seconds
-
-#### 📊 [Custody NAV Calculator (Python)](https://github.com/DLPietro/custody-nav-calculator)
-- Automates daily NAV reporting
-- Uses Python + live market data
-- Reduces manual work and errors
+<div align="center">
+  <a href="https://github.com/DLPietro/customer-intelligence-analytics-banking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=customer-intelligence-analytics-banking&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/retention-test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=retention-test&theme=radical&hide=Jupyter%20Notebook"/>
+	<a href="https://github.com/DLPietro/igaming-analytics-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=igaming-analytics-case-study&theme=radical&hide=Jupyter%20Notebook"/>
+	<a href="https://github.com/DLPietro/portfolio-risk-report"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=portfolio-risk-report&theme=radical&hide=Jupyter%20Notebook"/>
+	<a href="https://github.com/DLPietro/custody-nav-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=custody-nav-calculator&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/thesis-backtesting-etf-spx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=thesis-backtesting-etf-spx&theme=radical&hide=Jupyter%20Notebook"/>
+ </div>
 
 ---
 
->👉 All projects are on my GitHub — no fluff, just code and results.
+# ⚠️ Work in Progress ⚠️
+
+#### 📊 [Payroll Database (SQL)](https://github.com/DLPietro/payroll-database)
+> Queries for monthly payroll
+> Wages / Costs of cruises staff
+> 🛠 Tools: Excel, SQL, PosgreSQL, DBeaver, VS Codium
+
+---
+
+>👉 All projects are on my GitHub. No fluff, just code and results.
 >
 >[![Commit Style](https://img.shields.io/badge/Commit_Style-DLPietro-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DLPietro/learning-roadmap/blob/main/CONTRIBUTING.md)
 
@@ -97,8 +86,7 @@ I've been writing about what I am doing: more pragmatism, fewer technicalities
 
 ## 🌱 Learning Roadmap
 
-No random courses. No fake certificates.  
-Just a **structured, public plan** to get where I want.
+No random courses, no fake certificates, but a **structured, public plan** to get where I want.
 
 <a href="https://github.com/DLPietro/learning-roadmap">
   <img src="https://img.shields.io/badge/Repo-🚀_My_Learning_Roadmap-28A745?style=for-the-badge&logo=ghost&logoColor=white" alt="Roadmap"/>
@@ -122,4 +110,4 @@ Just a **structured, public plan** to get where I want.
 [![Email](https://img.shields.io/badge/Email-dileopie-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dileopie@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pietro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrodileo)
 
-> _© 2025 Pietro Di Leo — From Operations to Data. One Commit at a Time._
+> _© 2025 Pietro Di Leo. From Operations to Data, One Commit at a Time._
