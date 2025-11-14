@@ -7,9 +7,7 @@ Now, I'm building my own way with **Python, R, and SQL in real-world data projec
 
 📍 Malta | 💻 Working on **Data Analysis, Programming and Statistical Research**
 
-
 ---
-
 
 ### 🔧 I've been working with:
 
@@ -58,39 +56,30 @@ I don’t follow tutorials: I solve problems.
   <a href="https://github.com/DLPietro/thesis-backtesting-etf-spx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=thesis-backtesting-etf-spx&theme=radical&hide=Jupyter%20Notebook"/>
  </div>
 
----
+# ⚠️⚠️⚠️ Work in Progress ⚠️⚠️⚠️
 
-# ⚠️ Work in Progress ⚠️
+<div align="center">
+  <a href="https://github.com/DLPietro/payroll-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=payroll-database&theme=radical&hide=Jupyter%20Notebook"/>
+</div>
 
-#### 📊 [Payroll Database (SQL)](https://github.com/DLPietro/payroll-database)
-> Queries for monthly payroll
-> Wages / Costs of cruises staff
-> 🛠 Tools: Excel, SQL, PosgreSQL, DBeaver, VS Codium
-
----
-
->👉 All projects are on my GitHub. No fluff, just code and results.
+> 👉 _All projects are on my GitHub. No fluff, just code and results._
 >
 >[![Commit Style](https://img.shields.io/badge/Commit_Style-DLPietro-9B59B6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DLPietro/learning-roadmap/blob/main/CONTRIBUTING.md)
 
 ---
 
-## 📊 Data Journey
+## 🌱 Data Journey & Learning Roadmap
 
-I've been writing about what I am doing: more pragmatism, fewer technicalities
+No random courses, no fake certificates, but a **structured, public plan** to get where I want. And I've been writing about what I am doing.
 
-<a href="https://dlpietro.github.io">
+<div align="left">
+  <a href="https://dlpietro.github.io">
   <img src="https://img.shields.io/badge/Blog-My_Data_Journey-BCBCBC?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog"/>
-</a>
-
-
-## 🌱 Learning Roadmap
-
-No random courses, no fake certificates, but a **structured, public plan** to get where I want.
-
-<a href="https://github.com/DLPietro/learning-roadmap">
+  </a>
+  <a href="https://github.com/DLPietro/learning-roadmap">
   <img src="https://img.shields.io/badge/Repo-🚀_My_Learning_Roadmap-28A745?style=for-the-badge&logo=ghost&logoColor=white" alt="Roadmap"/>
-</a>
+  </a>
+</div>
 
 ---
 
