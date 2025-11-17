@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Selecting fornt from Google Fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+    
+    body {
+      font-family: 'Ubuntu', sans-serif; /* Ubuntu Font */
+      margin: 0;
+      padding: 0;
+    }
+    .signature-container {
+      background-image: url('https://www.example.com/tuo-sfondo.jpg'); /* Usa il tuo sfondo personalizzato */
+      background-size: cover; /* Rende l'immagine di sfondo a schermo intero */
+      background-position: center;
+      color: black; /* Testo in nero */
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 10px;
+      width: 500px;
+      box-sizing: border-box;
+    }
+    .signature-container img {
+      /* Rimuove il bordo arrotondato */
+      width: 60px;  /* Dimensione dell'icona portatile */
+      height: 60px;
+      margin-right: 20px;
+    }
+    .signature-details {
+      flex-grow: 1;
+    }
+    .signature-details h3 {
+      margin: 0;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .signature-details p {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+    .social-icons a {
+      margin-right: 10px;
+      color: black; /* Colore dei link in nero */
+      font-size: 20px;
+      text-decoration: none;
+    }
+    .social-icons a:hover {
+      color: #0056b3;
+    }
+  </style>
+  <!-- Link a Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="signature-container">
+    <img src="https://www.example.com/avatar-laptop.png" alt="Icona portatile"> <!-- Icona portatile -->
+    <div class="signature-details">
+      <h3>Pietro Di Leo</h3>
+      <p>Data & Finance Builder</p>
+      <p><a href="mailto:tuoemail@example.com">tuoemail@example.com</a></p>
+    </div>
+    <div class="social-icons">
+      <a href="https://github.com/tuo-github" target="_blank">
+        <i class="fab fa-github"></i> <!-- Icona GitHub -->
+      </a>
+      <a href="https://www.tuo-blog.com" target="_blank">
+        <i class="fas fa-rss"></i> <!-- Icona Blog -->
+      </a>
+      <a href="https://www.linkedin.com/in/tuo-linkedin" target="_blank">
+        <i class="fab fa-linkedin"></i> <!-- Icona LinkedIn -->
+      </a>
+      <a href="tel:+1234567890">
+        <i class="fas fa-phone-alt"></i> <!-- Icona Telefono -->
+      </a>
+    </div>
+  </div>
+</body>
+</html>
