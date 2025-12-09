@@ -50,19 +50,14 @@ I stopped waiting and I started building then!!
 I don’t follow tutorials: I solve problems.
 
 <div align="center">
+  <a href="https://github.com/DLPietro/payroll-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=payroll-database&theme=radical&hide=Jupyter%20Notebook"/>
   <a href="https://github.com/DLPietro/customer-intelligence-analytics-banking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=customer-intelligence-analytics-banking&theme=radical&hide=Jupyter%20Notebook"/>
   <a href="https://github.com/DLPietro/retention-test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=retention-test&theme=radical&hide=Jupyter%20Notebook"/>
-	<a href="https://github.com/DLPietro/igaming-analytics-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=igaming-analytics-case-study&theme=radical&hide=Jupyter%20Notebook"/>
-	<a href="https://github.com/DLPietro/portfolio-risk-report"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=portfolio-risk-report&theme=radical&hide=Jupyter%20Notebook"/>
-	<a href="https://github.com/DLPietro/custody-nav-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=custody-nav-calculator&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/igaming-analytics-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=igaming-analytics-case-study&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/portfolio-risk-report"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=portfolio-risk-report&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/custody-nav-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=custody-nav-calculator&theme=radical&hide=Jupyter%20Notebook"/>
   <a href="https://github.com/DLPietro/thesis-backtesting-etf-spx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=thesis-backtesting-etf-spx&theme=radical&hide=Jupyter%20Notebook"/>
  </div>
-
-### ⚠️⚠️⚠️ Work in Progress ⚠️⚠️⚠️
-
-<div align="center">
-  <a href="https://github.com/DLPietro/payroll-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=payroll-database&theme=radical&hide=Jupyter%20Notebook"/>
-</div>
 
 > 👉 _All projects are on my GitHub. No fluff, just code and results._
 >
@@ -106,4 +101,4 @@ No random courses, no fake certificates, but a **structured, public plan** to ge
 
 https://github.com/DLPietro/DLPietro/blob/main/signature.html
 
-> _© 2025 Pietro Di Leo. From Operations to Data, One Commit at a Time._
+> _© 2025 Pietro Di Leo. One Commit at a Time._
