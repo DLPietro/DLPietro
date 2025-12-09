@@ -49,8 +49,12 @@ I stopped waiting and I started building then!!
 
 I don’t follow tutorials: I solve problems.
 
+[![Louisville Public Dataset](https://svg.bookmark.style/api?url=https://github.com/DLPietro/auth-ui-vue&mode=light&style=horizontal)](https://github.com/DLPietro/louisville-payroll-analytics)
+[![CI Banking Analytics](https://svg.bookmark.style/api?url=https://github.com/DLPietro/vue-command-palette&mode=dark&style=horizontal)](https://github.com/DLPietro/customer-intelligence-analytics-banking)
+[![AB Retention Test](https://svg.bookmark.style/api?url=https://github.com/DLPietro/vue-sonner&mode=light&style=horizontal)](https://github.com/DLPietro/retention-test)
+
 <div align="center">
-  <a href="https://github.com/DLPietro/payroll-database"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=payroll-database&theme=radical&hide=Jupyter%20Notebook"/>
+  <a href="https://github.com/DLPietro/louisville-payroll-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=payroll-database&theme=radical&hide=Jupyter%20Notebook"/>
   <a href="https://github.com/DLPietro/customer-intelligence-analytics-banking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=customer-intelligence-analytics-banking&theme=radical&hide=Jupyter%20Notebook"/>
   <a href="https://github.com/DLPietro/retention-test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=retention-test&theme=radical&hide=Jupyter%20Notebook"/>
   <a href="https://github.com/DLPietro/igaming-analytics-case-study"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DLPietro&repo=igaming-analytics-case-study&theme=radical&hide=Jupyter%20Notebook"/>
